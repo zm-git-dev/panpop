@@ -93,3 +93,4 @@ All parameters were defined in `config.yaml` file
 [snakemake_ssh]: https://github.com/StarSkyZheng/snakemake_ssh
 [snakemake_slurm]: https://snakemake.readthedocs.io/en/stable/executing/cluster.html
 [vcf]: https://samtools.github.io/hts-specs/VCFv4.2.pdf
+
